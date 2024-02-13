@@ -8,3 +8,6 @@ beyond-sw-camp/be01-101#27
 v0.2.0
 - [x] push my index.html to docker hub
 - [x] https://hub.docker.com/r/dana96/nginx-my-html
+
+# v0.3.0
+- [ ] deploy fly.io
