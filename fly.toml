@@ -7,7 +7,8 @@ app = 'docker-nginx-dana96'
 primary_region = 'nrt'
 
 [build]
- image = 'nginx'
+ # image = "dana96/nginx-my-html:0.2.0"
+ image = "nginx"
 
 [http_service]
   internal_port = 80
